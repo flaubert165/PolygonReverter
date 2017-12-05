@@ -2,6 +2,10 @@
 
 PolygonReverterApp is a Java app that reverts geo-polygon formats from (lat, long) to (long, lat) or (long, lat) to (lat, long) after read of the data from a text file.
 
+Example of use:
+
+Project Wicket Polygons: https://arthur-e.github.io/Wicket/sandbox-gmaps3.html To Google Maps API Polygons.
+
 HOW TO USE:
 
 1 - "Copy" the polygon to the file "polygon.txt"* (found inside the source folder) and "Save" file;
